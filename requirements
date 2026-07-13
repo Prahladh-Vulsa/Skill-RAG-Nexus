@@ -1,0 +1,11 @@
+langchain
+langchain-google-genai
+langchain-chroma
+langchain-community
+langgraph
+langchain-mcp-adapters
+chromadb
+sentence-transformers
+pypdf
+requests
+tavily-python
